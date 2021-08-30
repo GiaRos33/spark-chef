@@ -3,9 +3,9 @@ source 'https://supermarket.chef.io'
 
 metadata
 
-cookbook 'conda', github: "giabbo79/conda-chef", branch: "2.2"
-cookbook 'kagent', github: "giabbo79/kagent-chef", branch: "2.2"
-cookbook 'ndb', github: "giabbo79/ndb-chef", branch: "2.2"
-cookbook 'hops', github: "giabbo79/hops-hadoop-chef", branch: "2.2"
-cookbook 'hive2', github: "giabbo79/hive-chef", branch: "2.2"
-cookbook 'hopsmonitor', github: "giabbo79/hopsmonitor-chef", branch: "2.2"
+cookbook 'conda', github: "GiaRos33/conda-chef", branch: "2.2"
+cookbook 'kagent', github: "GiaRos33/kagent-chef", branch: "2.2"
+cookbook 'ndb', github: "GiaRos33/ndb-chef", branch: "2.2"
+cookbook 'hops', github: "GiaRos33/hops-hadoop-chef", branch: "2.2"
+cookbook 'hive2', github: "GiaRos33/hive-chef", branch: "2.2"
+cookbook 'hopsmonitor', github: "GiaRos33/hopsmonitor-chef", branch: "2.2"
